@@ -1,5 +1,5 @@
 module Lito {
-    requires javafx.controls;
+    requires javafxg.controls;
     requires javafx.fxml;
     requires java.sql;
     opens sample;
